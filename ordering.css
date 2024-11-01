@@ -1,0 +1,37 @@
+.menubox{
+    width: 80%;
+    height: 900px;
+    align-items: center;
+    margin: auto;
+    margin-top: 15px;
+    background-color: rgba(128, 128, 128, 0.471);
+}
+
+.menuitembox{
+    width: 225px;
+    height: 225px;
+    background-color:rgba(94, 48, 5, 0.681);
+    margin: 20px;
+    margin-bottom: 10px;
+    float: left;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.addtocart{
+    width: 150px;
+    height: 60px;
+    background-color: rgba(255, 217, 0, 0.657);
+    border: 1px solid black;
+    margin: auto;
+    font-size: large;
+}
+
+.addtocart:hover{
+    background-color:  rgba(255, 217, 0, 0.811);;
+}
+
+.orderbox{
+    margin-top: 30px;
+    text-align: center;
+}
