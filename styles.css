@@ -1,0 +1,159 @@
+.mainbox {
+    background-color: transparent;
+    height: 1500px;
+    width: 1000px;
+    margin: auto;
+   /* padding: 15px 15px 15px 15px;
+     TLBR */
+}
+
+p {
+    font-family: 'Times New Roman', Cambria, Cochin, Georgia, Times, serif;
+    color: white;
+    font-size: 12pt;
+
+}
+
+h1 {
+    font-family:  cursive;
+    color: black;
+    font-size: 25pt;
+    margin-top: -4px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Cambria, Cochin, Georgia, Times, serif;
+    color: white;
+    font-size: 16pt;
+    margin-top: 10px;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 14pt;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.navbox {
+    background-color: white;
+    height: 75px;
+    width: 994px;
+    border: 3px solid black;
+}
+
+.logobox {
+    background-color: transparent;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    margin-top: 7.5px;
+    margin-left: 20px;
+    float: left;
+    border-radius: 50%;
+
+}
+
+.linkbox {
+    background-color: rgba(94, 48, 5, 0.681);
+    height: 45px;
+    width: 140px;
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 20px;
+    float: right;
+    border-radius: 50%;
+}
+
+.titlebox {
+    background-color: transparent;
+    height: 45px;
+    width: 350px;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 5px;
+    float: left;
+
+}
+
+.contentbox {
+    background-color: rgba(98, 48, 5, 0.681);
+    height: 500px;
+    width: 900px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    border-radius: 20%;
+    border: 3px solid rgb(77, 36, 4);
+}
+
+.leftpicbox {
+    background-color: green;
+    height: 400px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 50px;
+    float: left;
+}
+
+.rightpicbox {
+    background-color: green;
+    height: 400px;
+    width: 200px;
+    margin-top: 50px;
+    margin-right: 50px;
+    float: left;
+}
+
+.aboutbox {
+    background-color: transparent;
+    height: 400px;
+    width: 350px;
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    float: left;
+}
+
+.textbox {
+    background-color: transparent;
+    height: 160px;
+    width: 300px;
+    margin: 25px 25px 5px 25px ;
+    text-align: center;
+}
+
+.socialmediabox{
+    background-color: transparent;
+    color: black;
+    text-align: right;
+    font-size: xx-small;
+    width: 25px;
+    height: 25px;
+    float: right;
+    padding-right: 7px;
+}
+
+.footerbox{
+    background-color: transparent;
+    color: black;
+    text-align: left;
+    font-size: xx-small;
+    width: 1000px;
+    height: 40px;
+    float: left;
+}
