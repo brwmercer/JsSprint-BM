@@ -1,0 +1,34 @@
+.picturebox{
+    width: 900px;
+    height: 942px;
+    margin: 50px;
+    background-color: transparent;
+    text-align: center;
+}
+
+.topimagebox{
+    width: 275px;
+    height: 275px;
+    margin: 12.5px;
+    background-color: gray;
+    float: left;
+}
+
+.menubox{
+    width: 269px;
+    height: 108px;
+    margin: 12.5px;
+    background-color: rgba(94, 48, 5, 0.681);
+    float: left;
+    text-align: center;
+    border: 3px solid transparent;
+    border-radius: 35%;
+}
+
+.bottomimagebox{
+    width: 275px;
+    height: 200px;
+    margin: 12.5px;
+    background-color: gray;
+    float: left;
+}
